@@ -9,4 +9,4 @@
 
 <div align="center">
 
-<img src="./banner.gif" align="center" width="300">
+<img src="./banner.gif" align="center" width="1000">
