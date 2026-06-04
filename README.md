@@ -1,5 +1,4 @@
-<img align="center" width="50" src ="./352195633381521448.jpeg"><h1 align="center"> Front developer </h1><img align="center" width="50" src ="./352195633381521448.jpeg">
-
+<h1 align="center"><img align="center" width="50" src ="./352195633381521448.jpeg"> Front developer <img align="center" width="50" src ="./352195633381521448.jpeg"></h1>
 <p align="center">
   HTML • CSS • JavaScript • Python
 </p>
