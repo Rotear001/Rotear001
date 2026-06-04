@@ -8,5 +8,5 @@
 </p>
 
 <div align="center">
-
-<img src="./banner.gif" align="center" width="800">
+<hr>
+<img src="./banner.gif" align="center" width="700">
