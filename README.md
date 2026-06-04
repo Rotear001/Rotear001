@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Frontend & Python Learner ⚡</h1>
+<h1 align="center"> Front developer </h1>
 
 <p align="center">
   HTML • CSS • JavaScript • Python
