@@ -10,9 +10,4 @@
 
 <div align="center">
 
-```txt
-while(alive){
-    learn();
-    build();
-    improve();
-}
+<img align="center" width="250" src ="./banner.img">
