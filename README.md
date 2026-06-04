@@ -10,4 +10,4 @@
 
 <div align="center">
 
-<img align="center" width="250" src ="./352195633381521448.jpeg">
+<img align="center" width="500" height="300" src ="./352195633381521448.jpeg">
