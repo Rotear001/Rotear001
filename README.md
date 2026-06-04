@@ -10,4 +10,4 @@
 
 <div align="center">
 
-<img align="center" width="250" src ="./banner.img">
+<img align="center" width="250" src ="./352195633381521448.jpeg">
