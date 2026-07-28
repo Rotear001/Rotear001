@@ -1,10 +1,10 @@
 <h1 align="center"><img align="center" width="50" src ="./352195633381521448.jpeg"> Front developer <img align="center" width="50" src ="./352195633381521448.jpeg"></h1>
 <p align="center">
-  HTML • CSS • JavaScript • Python
+  HTML • CSS • JavaScript • Python • React
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react&theme=dark" />
 </p>
 
 <div align="center">
