@@ -1,6 +1,6 @@
 <h1 align="center"><img align="center" width="50" src ="./352195633381521448.jpeg"> Front developer <img align="center" width="50" src ="./352195633381521448.jpeg"></h1>
 <p align="center">
-  HTML • CSS • JavaScript • Python • React
+  HTML • CSS • JavaScript • Python • React-학습중
 </p>
 
 <p align="center">
