@@ -3,7 +3,7 @@
   프론트엔드
 </h2>
 <p align="center">
-  HTML • CSS • JavaScript • React
+  HTML • CSS • JavaScript • React(학습중)
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
@@ -12,6 +12,9 @@
 <h2 align="center">
   백엔드
 </h2>
+<p align="center">
+  PYTHON • JAVA (학습중)
+</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
 </p>
