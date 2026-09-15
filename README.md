@@ -49,6 +49,10 @@
 </h3>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,java,c&theme=dark">
+</p>
+
+<p align="center">
   React · Java · C
 </p>
 
