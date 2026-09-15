@@ -13,10 +13,10 @@
   백엔드
 </h2>
 <p align="center">
-  PYTHON • JAVA (학습중)
+  PYTHON • JAVA (학습중) • C (학습중)
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" />
 </p>
 
 <div align="center">
