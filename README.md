@@ -1,50 +1,59 @@
-<div align="center">
+<p align="center">
+  <img width="90" src="./352195633381521448.jpeg">
+</p>
 
-  <img width="90" src="./352195633381521448.jpeg" />
+<h1 align="center">
+  Frontend Developer
+</h1>
 
-  <h1>Frontend Developer</h1>
+<p align="center">
+  Building things, learning every day.
+</p>
 
-  <p>
-    Learning, building, and improving.
-  </p>
+<br>
 
-  <br>
+<h2 align="center">
+  Tech Stack
+</h2>
 
-  <h2>Tech Stack</h2>
+<h3 align="center">
+  Frontend
+</h3>
 
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>Frontend</h3>
-        <p>HTML · CSS · JavaScript · React</p>
-        <img
-          src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"
-        />
-      </td>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark">
+</p>
 
-      <td align="center" width="50%">
-        <h3>Backend & Languages</h3>
-        <p>Python · Java · C</p>
-        <img
-          src="https://skillicons.dev/icons?i=python,java,c&theme=dark"
-        />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  HTML · CSS · JavaScript · React
+</p>
 
-  <br>
+<br>
 
-  <h3>Currently Learning</h3>
+<h3 align="center">
+  Backend & Languages
+</h3>
 
-  <p>
-    React · Java · C
-  </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c&theme=dark">
+</p>
 
-  <br>
+<p align="center">
+  Python · Java · C
+</p>
 
-  <img
-    src="./banner.gif"
-    width="700"
-  />
+<br>
 
-</div>
+<h3 align="center">
+  Currently Learning
+</h3>
+
+<p align="center">
+  React · Java · C
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./banner.gif" width="700">
+</p>
