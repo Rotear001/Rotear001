@@ -1,24 +1,50 @@
-<h1 align="center"><img align="center" width="50" src ="./352195633381521448.jpeg"> Front developer <img align="center" width="50" src ="./352195633381521448.jpeg"></h1>
-<h2 align="center">
-  프론트엔드
-</h2>
-<p align="center">
-  HTML • CSS • JavaScript • React(학습중)
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-</p>
-
-<h2 align="center">
-  백엔드
-</h2>
-<p align="center">
-  PYTHON • JAVA (학습중) • C (학습중)
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" />
-</p>
-
 <div align="center">
-<hr>
-<img src="./banner.gif" align="center" width="700">
+
+  <img width="90" src="./352195633381521448.jpeg" />
+
+  <h1>Frontend Developer</h1>
+
+  <p>
+    Learning, building, and improving.
+  </p>
+
+  <br>
+
+  <h2>Tech Stack</h2>
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>Frontend</h3>
+        <p>HTML · CSS · JavaScript · React</p>
+        <img
+          src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"
+        />
+      </td>
+
+      <td align="center" width="50%">
+        <h3>Backend & Languages</h3>
+        <p>Python · Java · C</p>
+        <img
+          src="https://skillicons.dev/icons?i=python,java,c&theme=dark"
+        />
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <h3>Currently Learning</h3>
+
+  <p>
+    React · Java · C
+  </p>
+
+  <br>
+
+  <img
+    src="./banner.gif"
+    width="700"
+  />
+
+</div>
