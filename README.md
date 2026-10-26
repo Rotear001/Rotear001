@@ -2,19 +2,25 @@
   <img width="90" src="./352195633381521448.jpeg">
 </p>
 
-<h1 align="center">
+<h3 align="center">
   Frontend Developer
-</h1>
+</h3>
 
 <p align="center">
   Building things, learning every day.
 </p>
 
-<br>
+<p align="center">
+  ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+</p>
 
-<h2 align="center">
+<h3 align="center">
   Tech Stack
-</h2>
+</h3>
+
+<p align="center">
+  ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+</p>
 
 <h3 align="center">
   Frontend
@@ -46,7 +52,9 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
-<br>
+<p align="center">
+  ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+</p>
 
 <p align="center">
   <img src="./banner.gif" width="700">
